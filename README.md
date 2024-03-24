@@ -14,6 +14,7 @@ a dedicated student at University Technology Malaysia (UTM), where I am advancin
 -->
 
 <h1 align="center">Hi 👋, I'm Chang Min Xuan</h1>
+<img src="Profile_Slide.jpg">
 a dedicated student at University Technology Malaysia (UTM), where I am advancing my knowledge in Computer Science with a focus on Bioinformatics. My academic journey is driven by a passion for integrating computational methods with biological data, aiming to contribute significantly to the field of bioinformatics.
 
 - 🌏 I’m come from **Kluang, Johor.**
