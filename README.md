@@ -17,7 +17,7 @@ a dedicated student at University Technology Malaysia (UTM), where I am advancin
 <img src="Profile_Slide.jpg">
 a dedicated student at University Technology Malaysia (UTM), where I am advancing my knowledge in Computer Science with a focus on Bioinformatics. My academic journey is driven by a passion for integrating computational methods with biological data, aiming to contribute significantly to the field of bioinformatics.
 
-- 🌏 I’m come from **Kluang, Johor.**
+- 🌏 I’m from **Kluang, Johor.**
 
 - 👨‍💻 May view my e-portfolio at [https://eportfolio.utm.my/user/chang-min-xuan](https://eportfolio.utm.my/user/chang-min-xuan)
 
